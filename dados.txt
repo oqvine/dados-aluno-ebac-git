@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vinícius Cano Blasque
+-Profissão: Engenheiro de Software Jr.
+-Cidade: São Paulo (SP)
+-O que faz nas horas vagas: Estudo, leio bastante, escuto podcasts
+-Feedback sobre o curso Qualidade de Software: Ótima didática e material
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma além de ser de fácil acesso, o esquema das aulas juntamente com a entrega de exercícios são ótimas para o aprendizado
 
 Obrigado!!!
 
